@@ -1,2 +1,1 @@
-Print
-Lessgooo
+print("Lessgooo")
